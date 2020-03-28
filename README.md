@@ -4,7 +4,7 @@ Add your own parser to Genie Parser.
 # Install
 
 ```
-# pip3 setup.py install
+# python3 setup.py install
 ```
 
 ```
